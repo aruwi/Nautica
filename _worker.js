@@ -4,7 +4,7 @@ import { connect } from "cloudflare:sockets";
 
 // Variables
 const rootDomain = "anaki.my.id"; // Ganti dengan domain utama kalian
-const serviceName = "hana"; // Ganti dengan nama workers kalian
+const serviceName = "hanaa"; // Ganti dengan nama workers kalian
 const apiKey = "_e7nOn7AkkZUW5ylPzA7NRXGNxB0dli3OIXr_ePj"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "kuliahkuyarab@gmail.com"; // Ganti dengan email yang kalian gunakan
 const accountID = "39e4c81f1704ab0c44186dc286d7b63c"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
